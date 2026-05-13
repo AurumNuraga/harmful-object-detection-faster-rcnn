@@ -6,15 +6,6 @@ A deep learning project for detecting harmful objects using Faster R-CNN object 
 
 This project implements an object detection system using **Faster R-CNN** architecture to identify and localize harmful objects in images and video streams. The model is trained on a custom dataset and provides high-confidence predictions with bounding box coordinates.
 
-## 🎥 Demo Video
-
-Watch the detection results in action:
-
-<video width="640" height="480" controls>
-  <source src="output.mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## 📂 Repository Structure
 
 ```
