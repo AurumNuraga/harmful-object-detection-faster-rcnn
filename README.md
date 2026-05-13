@@ -11,11 +11,9 @@ This project implements an object detection system using **Faster R-CNN** archit
 Watch the detection results in action:
 
 <video width="640" height="480" controls>
-  <source src="https://github.com/AurumNuraga/harmful-object-detection/raw/main/output.mp4" type="video/mp4">
+  <source src="output.mp4">
   Your browser does not support the video tag.
 </video>
-
-**Demo Video Alternative Link:** [output.mp4](https://github.com/AurumNuraga/harmful-object-detection/raw/main/output.mp4)
 
 ## 📂 Repository Structure
 
@@ -67,12 +65,12 @@ Based on the results.json file, the model detects **6 object categories** (IDs 1
 
 | Category ID | Detections |
 |------------|-----------|
-| 1 | Multiple detections across images |
-| 2 | Multiple detections across images |
-| 3 | Multiple detections across images |
-| 4 | Multiple detections across images |
-| 5 | Multiple detections across images |
-| 6 | Multiple detections across images |
+| 1 | Bomb |
+| 2 | Fire |
+| 3 | Hand Gun |
+| 4 | Knife |
+| 5 | Rifle |
+| 6 | Smoke |
 
 ## 📈 Model Performance
 
